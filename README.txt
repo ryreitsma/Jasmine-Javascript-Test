@@ -1,0 +1,1 @@
+This is used for a course in TDD. It's a sample project in Ruby to demonstrate how the Jasmine javascript testing framework works. It's a simple Rails 3.2 scaffold from a Movie model. It shows how to use Jasmine when you want to test javascript for making the list sortable. 
